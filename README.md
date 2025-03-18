@@ -7,3 +7,6 @@ https://github.com/SpurthiB05/CODSOFT/blob/main/SGC.java
 
 TASK 4
 https://github.com/SpurthiB05/CODSOFT/blob/main/currency_converter.java
+
+Task 5
+https://github.com/SpurthiB05/CODSOFT/blob/main/StudentManagementSystem.java
